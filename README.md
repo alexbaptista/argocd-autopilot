@@ -1,0 +1,2 @@
+# argocd-autopilot
+Demo autopilot
