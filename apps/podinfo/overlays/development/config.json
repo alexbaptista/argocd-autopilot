@@ -1,0 +1,11 @@
+{
+  "appName": "podinfo",
+  "userGivenName": "podinfo",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/podinfo/overlays/development",
+  "srcRepoURL": "https://github.com/alexbaptista/argocd-autopilot.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
