@@ -6,9 +6,7 @@
   "srcPath": "guestbook",
   "srcRepoURL": "https://github.com/alexbaptista/argocd-example-apps.git",
   "srcTargetRevision": "",
-  "labels": [
-    "app.kubernetes.io/environment": "development"
-  ],
+  "labels": "",
   "annotations": null,
   "exclude": "",
   "include": ""
