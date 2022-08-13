@@ -5,7 +5,7 @@
   "destServer": "https://student-poc-dns-1849b996.hcp.brazilsouth.azmk8s.io:443",
   "srcPath": "guestbook",
   "srcRepoURL": "https://github.com/alexbaptista/argocd-example-apps.git",
-  "srcTargetRevision": "",
+  "srcTargetRevision": "feat/Azure",
   "labels": null,
   "annotations": null,
   "exclude": "",
